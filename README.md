@@ -16,6 +16,7 @@ If you were a member of the NJN or ACJN you will find most songs from
 the Barberje and Wiekel songbooks.
 
 Files: songbook.docx is the real thing, 
-attic.docx contains the stuff that is unfinished.
+attic.docx contains the stuff that is unfinished, 
+template.docx can be used as base to add (and submit) a new song.
 
-last update: 2021-08-15
+last update: 2021-08-21
